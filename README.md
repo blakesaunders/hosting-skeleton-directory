@@ -1,5 +1,5 @@
-# skeleton-host-directory
-Default skeleton directory of web site files for hosted accounts.
+# Hosting Skeleton Directory
+Default web site files placed in `public_html` folder for hosted accounts.
 
 ## Maintainer
 [@BlakeSaunders](https://github.com/blakesaunders)
